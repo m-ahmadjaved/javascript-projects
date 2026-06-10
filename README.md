@@ -30,7 +30,7 @@ The player tries to guess a secret number between 1 and 20. Each wrong guess red
 
 - HTML5
 - CSS3
-- Vanilla JavaScript (ES6+)
+- JavaScript (ES6+)
 
 ---
 
