@@ -63,7 +63,11 @@ Pig-Game/
 ---
 
 ## 📸 Screenshot
+![image alt](https://github.com/m-ahmadjaved/javascript-projects/blob/fc5b1e1b805280d856db11ad3e8cc64065e4fb83/03_Pig-Game/Screenshot.png)
 
+---
+
+## 📸 Flowchart
 ![image alt](https://github.com/m-ahmadjaved/javascript-projects/blob/a238347dd4586df5d17ba4a7c6ac68326f378860/03_Pig-Game/pig-game-flowchart.png)
 
 ---
