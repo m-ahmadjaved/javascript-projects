@@ -64,11 +64,7 @@ Pig-Game/
 
 ## 📸 Screenshot
 
-Add a screenshot of your project here.
-
-```md
-![Pig Game Screenshot](pig-game-flowchart.png)
-```
+![image alt](https://github.com/m-ahmadjaved/javascript-projects/blob/a238347dd4586df5d17ba4a7c6ac68326f378860/03_Pig-Game/pig-game-flowchart.png)
 
 ---
 
